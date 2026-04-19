@@ -1,7 +1,9 @@
 # Shorter Oxford English Dictionary (SOED) 6th Ed. & Oxford English Dictionary (OED) 2nd Ed.
 
-This repo contains zips of the SOED 6th Ed. and OED 2nd Ed. in the stardict
-format.
+This repo contains SOED 6th Ed., OED 2nd Ed., and American Heritage Dictionary,
+4Ed. in the stardict format.
+
+See [more dictionaries here](https://stardict.uber.space/babylon/english/index.htmlhttps://stardict.uber.space/babylon/english/index.html)
 
 ### Clients
 
@@ -15,7 +17,4 @@ maintained clients for all platforms.
     the styles will be applied on restart.
 - [Universal Dictionary](https://dictionary-universal.appspot.com/dictionary/en)
   (iOS, can't recommend enough), automatically applies styles.
-
-
-
 
